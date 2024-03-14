@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: font1;
+    src: url(fonte/typewriter_condensed/typewcond_demi.otf);
+}
+
+body{
+
+text-align: center;
+padding-top: 5%;
+background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA5L3JtMTgzLWFldy0xNy14LmpwZw.jpg);
+background-repeat: no-repeat;
+background-size: 1505px 775px;
+
+
+}
+
+h1{
+    font-size: 50px;
+    font-family: font1;
+}
+
+#taskList{
+    font-size: 30px;
+}
+
+button{
+    font-size: 100%;
+    border-radius: 95px;
+}
+
+input{
+    font-size: 150%;
+    border-radius: 50px;
+}
+
+
+footer{
+
+    position: fixed;
+    top: 95%;
+    left: 42%;
+    font-size: 20px;
+    font-family: font1;
+}
+
+
+
+
